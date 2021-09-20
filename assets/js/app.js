@@ -160,3 +160,4 @@ searchUpcomingMovies();
 getTopRatedMovies();
 searchPopularMovie();
 getTrendingMovies();
+
